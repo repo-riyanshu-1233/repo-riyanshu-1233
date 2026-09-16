@@ -1,12 +1,12 @@
-<!-- Badges and Visitor Count -->
+
 <p align="center">
   <a href="https://github.com/github/sponsors"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-hotpink?style=for-the-badge&logo=githubsponsors" alt="Sponsor"></a>
   <img src="https://komarev.com/ghpvc/?username=riyanshusinh&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/your-instagram-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/riyanshusinh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/riyanshu_1233"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -29,12 +29,11 @@
 
 ### Frameworks & Libraries
 * ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-* ![Phaser](https://img.shields.io/badge/Phaser-000000?style=for-the-badge&logo=phaser&logoColor=red)
+* !
 
 ### Tools & Deployment
 * ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* ![Vercel](https://img.shields.io/badge/vercel-%000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-* ![Netlify](https://img.shields.io/badge/netlify-%00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+*
 
 ---
