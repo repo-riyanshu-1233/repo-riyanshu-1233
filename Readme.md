@@ -11,16 +11,16 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
-* 🔭 **Focus:** Building web applications, browser games, and exploring digital creative solutions.
-* 🚀 **Venture:** Founder of **Edition Industries**, working across web development, game development, video editing, and digital media.
-* ⚡ **Workflow:** Developing and editing code seamlessly on mobile using **Acode**, and deploying projects via GitHub, Render, Netlify, and Vercel.
-* 🎯 **Current Target:** Mastering advanced JavaScript frameworks, 3D graphics with Three.js, and scaling interactive web experiences.
+* **Focus:** Building web applications, browser games, and exploring digital creative solutions.
+* **Venture:** Founder of **Edition Industries**, working across web development, game development, video editing, and digital media.
+* **Workflow:** Developing and editing code seamlessly on mobile using **Acode**, and deploying projects via GitHub, Render, Netlify, and Vercel.
+* **Current Target:** Mastering advanced JavaScript frameworks, 3D graphics with Three.js, and scaling interactive web experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech used
 
 ### Languages & Core
 * ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
